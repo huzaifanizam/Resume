@@ -1,0 +1,102 @@
+.body{
+    background-color: #D7D7D7;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    background-color: yellowgreen;
+    width: 75%;
+    min-width: 580px;
+    max-width: 600px;
+    box-shadow: 1px 1px 10px 10px #4f4e55;
+    /* box-shadow: #2A292F; */
+
+}
+
+div.left {
+    background-color: #212026;
+    color: #D7D7D7;
+    width: 35%;
+}
+
+.img {
+    width: 100%;
+    /* border-radius: 118px; */
+    opacity: 0.2;
+}
+
+.leftContener {
+    padding-left: 41px;
+}
+
+.leftContenerTable {
+    /* padding-left: 41px; */
+    width: 100%;
+}
+
+.tableYellow {
+    background-color: #FECB01;
+
+}
+
+.tableBlack {
+    background-color: #212026;
+
+}
+
+.tablegary {
+    background-color: #2A292F;
+    text-decoration: none;
+}
+
+a:-webkit-any-link {
+    text-decoration: none;
+    color: white;
+}
+
+.leftContenerBox {
+    padding: 10px;
+}
+
+div.right {
+    background-color: white;
+    width: 65%;
+}
+
+h3{
+    
+}
+.HUZAIFA {
+    background-color: #FECB01;
+    padding: 40px;
+    font-size: 30px;
+}
+
+.content {
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+
+.experinceTable {
+    text-align: start;
+}
+h4{
+    padding: 0%;
+}
+label {
+    padding-right: 10px;
+    font-size: 1rem;
+    
+  }
+  meter{
+   width: 100px;
+   color: #212026;
+  
+  }
+  
+  .SkillFlexContainer{
+    display: flex;
+    justify-content: space-evenly;
+  }
