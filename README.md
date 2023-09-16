@@ -1,3 +1,5 @@
+<img src="./public/img/firstImg.png" alt="GitHUB" align="center" >
+<img src="./public/img/thirdimg.png" alt="GitHUB" align="center" >
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
